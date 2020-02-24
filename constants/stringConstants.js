@@ -1,0 +1,16 @@
+export const titles = {
+  HEADER: 'СБРОСИТЬ ВЕС',
+  HEADER_SUB_TITLE_ONE: 'НЕДЕЛЯ 1',
+  HEADER_SUB_TITLE_TWO: 'НЕДЕЛЯ 2',
+  HEADER_SUB_TITLE_THREE: 'НЕДЕЛЯ 3',
+  HEADER_SUB_TITLE_FOUR: 'НЕДЕЛЯ 4',
+  HEADER_SUB_TITLE_FIVE: 'НЕДЕЛЯ 5',
+  TEXT_1: '1 - й День',
+  TEXT_2: '2 - й День',
+  TEXT_3: '3 - й День',
+  TEXT_4: '4 - й День',
+  TEXT_5: '5 - й День',
+  TEXT_6: '6 - й День',
+  TEXT_7: '7 - й День',
+  TEXT_8: '8 - й День',
+};
